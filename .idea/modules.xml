@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-1/Sample02-1.iml" filepath="$PROJECT_DIR$/Week02/Sample02-1/Sample02-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-2/Sample02-2.iml" filepath="$PROJECT_DIR$/Week02/Sample02-2/Sample02-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-3/Sample02-3.iml" filepath="$PROJECT_DIR$/Week02/Sample02-3/Sample02-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-4/Sample02-4.iml" filepath="$PROJECT_DIR$/Week02/Sample02-4/Sample02-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-1/Sample03-1.iml" filepath="$PROJECT_DIR$/Week03/Sample03-1/Sample03-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-2/Sample03-2.iml" filepath="$PROJECT_DIR$/Week03/Sample03-2/Sample03-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-3/Sample03-3.iml" filepath="$PROJECT_DIR$/Week03/Sample03-3/Sample03-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-4/Sample03-4.iml" filepath="$PROJECT_DIR$/Week03/Sample03-4/Sample03-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-5/Sample03-5.iml" filepath="$PROJECT_DIR$/Week03/Sample03-5/Sample03-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-6/Sample03-6.iml" filepath="$PROJECT_DIR$/Week03/Sample03-6/Sample03-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Sample03-7/Sample03-7.iml" filepath="$PROJECT_DIR$/Week03/Sample03-7/Sample03-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week02/Week02.iml" filepath="$PROJECT_DIR$/Week02/Week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week03/Week03.iml" filepath="$PROJECT_DIR$/Week03/Week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-a.iml" filepath="$PROJECT_DIR$/.idea/java-a.iml" />
+    </modules>
+  </component>
+</project>
