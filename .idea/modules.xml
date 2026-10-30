@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/test01/111/111.iml" filepath="$PROJECT_DIR$/test01/111/111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/2222/2222.iml" filepath="$PROJECT_DIR$/test01/2222/2222.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/3333/3333.iml" filepath="$PROJECT_DIR$/test01/3333/3333.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/4444/4444.iml" filepath="$PROJECT_DIR$/test01/4444/4444.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/5555/5555.iml" filepath="$PROJECT_DIR$/test01/5555/5555.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-1/Sample02-1.iml" filepath="$PROJECT_DIR$/Week02/Sample02-1/Sample02-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-2/Sample02-2.iml" filepath="$PROJECT_DIR$/Week02/Sample02-2/Sample02-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week02/Sample02-3/Sample02-3.iml" filepath="$PROJECT_DIR$/Week02/Sample02-3/Sample02-3.iml" />
@@ -50,6 +55,7 @@
       <module fileurl="file://$PROJECT_DIR$/middle/m3/m3.iml" filepath="$PROJECT_DIR$/middle/m3/m3.iml" />
       <module fileurl="file://$PROJECT_DIR$/middle/m4/m4.iml" filepath="$PROJECT_DIR$/middle/m4/m4.iml" />
       <module fileurl="file://$PROJECT_DIR$/middle/middle.iml" filepath="$PROJECT_DIR$/middle/middle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01/test01.iml" filepath="$PROJECT_DIR$/test01/test01.iml" />
     </modules>
   </component>
 </project>
